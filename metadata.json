@@ -1,0 +1,6 @@
+{
+  "name": "Audio Video Multiplexer",
+  "description": "Combine video files with multiple customizable audio lanes. Support selecting tracks in a multi-audio video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
